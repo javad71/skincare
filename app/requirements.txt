@@ -1,0 +1,14 @@
+deepface
+djangorestframework
+jupyter
+opencv-python
+pyyaml
+requests
+seaborn
+tqdm
+gunicorn
+dlib
+imutils
+psycopg2
+pytorchcv
+scikit-image
